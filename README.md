@@ -1,3 +1,11 @@
+
+Prerequisites:
+
+Python >=3.6.0
+
+Network Security Dataset Used: CICIDS2017
+
+
 If you use the above code for your research, please cite it as follows:
 
 Plain text format:
